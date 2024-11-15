@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hifortune.net",
+        "hibusiness.com",
+        "tianyablog.com",
+        "gz12301.com",
+        "laibafile.cn",
+        "tianyaclub.com",
+        "tianyaui.com",
+        "hainan.com",
+        "hi114.cn",
+        "tianya.cn",
+        "tysurl.com",
+        "tianya.com.cn",
+        "hainan.net"
+      ]
+    }
+  ],
+  "version": 2
+}

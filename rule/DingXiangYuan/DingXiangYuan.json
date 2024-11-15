@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pubmed.cn",
+        "dxy.me",
+        "0dxy.cn",
+        "mdnews.cn",
+        "linkmed.com.cn",
+        "centerwatch.cn",
+        "guanlannet.com",
+        "biomart.cn",
+        "dxy.com",
+        "dxyer.cn",
+        "dxyer.com",
+        "jobmd.cn",
+        "crou.cn",
+        "dxy.cn",
+        "dxy.net",
+        "dxycdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}
