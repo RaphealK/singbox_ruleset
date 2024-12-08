@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sf-cityrush.com",
+        "sf-saas.com",
+        "sf-jf.com",
+        "sfair.com",
+        "sf-express.com",
+        "feng1.com",
+        "sf-financial.com",
+        "sf-saas.cn",
+        "sffix.cn",
+        "fslinker.com",
+        "sf-saas.com.cn",
+        "sf-airlines.com",
+        "hbjia.net",
+        "sf-tech.com.cn",
+        "rongechain.com",
+        "sf.cn",
+        "sf-intra-city.com",
+        "sfcar.hk",
+        "sfgy.org",
+        "sfbuy.com"
+      ]
+    }
+  ],
+  "version": 2
+}

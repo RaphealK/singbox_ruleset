@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cainiao-inc.cn",
+        "cainiaoyizhan.com",
+        "cainiao.com",
+        "cainiao-inc.net",
+        "guoguo-app.com",
+        "cainiao-inc.com",
+        "56che.com",
+        "cainiao.com.cn",
+        "xiaog.xyz"
+      ]
+    }
+  ],
+  "version": 2
+}

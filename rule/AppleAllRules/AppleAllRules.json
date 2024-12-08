@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "fmipmobile.icloud.com",
+        "statici.icloud.com"
+      ],
+      "domain_suffix": [
+        "apple-cloudkit.com",
+        "cdn-apple-mapkit.com",
+        "safebrowsing.apple",
+        "ls.apple.com.edgesuite.net",
+        "icloud-content.com",
+        "dispatcher.is.autonavi.com",
+        "icloud.com",
+        "apple-mapkit.com",
+        "apple-dns.cn",
+        "icloud.com.cn",
+        "apple.co",
+        "apple.news",
+        "apple.cn",
+        "apple.com",
+        "mzstatic.com",
+        "apple-dns.net",
+        "aaplimg.com",
+        "akadns.net",
+        "me.com",
+        "cdn-apple.com",
+        "croissant.edge.apple",
+        "apple.com.cn"
+      ],
+      "ip_cidr": [
+        "63.92.224.0/19",
+        "144.178.48.0/20",
+        "205.180.175.0/24",
+        "139.178.128.0/18",
+        "144.178.0.0/19",
+        "17.0.0.0/8",
+        "192.35.50.0/24",
+        "144.178.36.0/22",
+        "65.199.22.0/23",
+        "198.183.17.0/24"
+      ]
+    }
+  ],
+  "version": 2
+}
